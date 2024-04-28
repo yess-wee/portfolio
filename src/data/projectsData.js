@@ -78,7 +78,7 @@ const InprogressProjectsData = [
     name: "URL shortening API landing page",
     stack: ["< JavaScript />", "< NodeJS />"],
     live: "",
-    source: "https://github.com/rimshub/URL-shortening-API-landing-page",
+    source: "https://github.com/yess-wee/portfolio",
     description:
       "Integrate with the shrtcode URL shortening API and play with browser storage in this landing page challenge",
   },
