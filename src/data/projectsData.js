@@ -2,11 +2,7 @@
 import krushibook from "./../assets/portfolioImages/krushibook.png";
 import mario from "./../assets/portfolioImages/mario.png";
 import hms from "./../assets/portfolioImages/hms.jpg";
-import Page from "./../assets/portfolioImages/intropage.jpg";
-// import AWS from "./../assets/portfolioImages/s3.PNG";
-
 import tslogo from "./../assets/portfolioImages/tslogo.png"
-// in progress projects
 
 import akatsuki from './../assets/portfolioImages/akatsuki.jpg'
 import landingPage from './../assets/portfolioImages/url.jpg'

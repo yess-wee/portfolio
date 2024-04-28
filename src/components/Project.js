@@ -9,9 +9,7 @@ function Projects({image, name, live, source, desc}) {
                 <h1 className='text-xl font-bold text-[#ec6e59]'>{name}</h1>
                 <p className='sm:text-justify font-light  leading-loose text-sm sm:text-base'>{desc}</p>
                 <div className='flex gap-5 mt-7'>
-                    <a href={live} target='_blank' rel='noreferrer' className='flex items-center bg-[#ec6e59] text-white px-4 py-2 rounded-md text-sm'>
-                        Demo
-                    </a>
+                    
                     <a href={source} target='_blank' rel='noreferrer' className='flex items-center gap-1 px-4 py-2 border border-black rounded-md text-sm bg-white dark:bg-[#20262E]'>
                         <AiFillGithub className='w-6 h-6' /> Code
                     </a>
